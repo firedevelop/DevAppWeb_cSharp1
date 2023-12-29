@@ -1,0 +1,15 @@
+C:\Users\fireDevelop\Documents\GitHub\DevAppWeb_cSharp1\DevAppWeb_cSharp1\bin\Debug\net8.0\DevAppWeb_cSharp1.exe
+C:\Users\fireDevelop\Documents\GitHub\DevAppWeb_cSharp1\DevAppWeb_cSharp1\bin\Debug\net8.0\DevAppWeb_cSharp1.deps.json
+C:\Users\fireDevelop\Documents\GitHub\DevAppWeb_cSharp1\DevAppWeb_cSharp1\bin\Debug\net8.0\DevAppWeb_cSharp1.runtimeconfig.json
+C:\Users\fireDevelop\Documents\GitHub\DevAppWeb_cSharp1\DevAppWeb_cSharp1\bin\Debug\net8.0\DevAppWeb_cSharp1.dll
+C:\Users\fireDevelop\Documents\GitHub\DevAppWeb_cSharp1\DevAppWeb_cSharp1\bin\Debug\net8.0\DevAppWeb_cSharp1.pdb
+C:\Users\fireDevelop\Documents\GitHub\DevAppWeb_cSharp1\DevAppWeb_cSharp1\obj\Debug\net8.0\DevAppWeb_cSharp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fireDevelop\Documents\GitHub\DevAppWeb_cSharp1\DevAppWeb_cSharp1\obj\Debug\net8.0\DevAppWeb_cSharp1.AssemblyInfoInputs.cache
+C:\Users\fireDevelop\Documents\GitHub\DevAppWeb_cSharp1\DevAppWeb_cSharp1\obj\Debug\net8.0\DevAppWeb_cSharp1.AssemblyInfo.cs
+C:\Users\fireDevelop\Documents\GitHub\DevAppWeb_cSharp1\DevAppWeb_cSharp1\obj\Debug\net8.0\DevAppWeb_cSharp1.csproj.CoreCompileInputs.cache
+C:\Users\fireDevelop\Documents\GitHub\DevAppWeb_cSharp1\DevAppWeb_cSharp1\obj\Debug\net8.0\DevAppWeb_cSharp1.sourcelink.json
+C:\Users\fireDevelop\Documents\GitHub\DevAppWeb_cSharp1\DevAppWeb_cSharp1\obj\Debug\net8.0\DevAppWeb_cSharp1.dll
+C:\Users\fireDevelop\Documents\GitHub\DevAppWeb_cSharp1\DevAppWeb_cSharp1\obj\Debug\net8.0\refint\DevAppWeb_cSharp1.dll
+C:\Users\fireDevelop\Documents\GitHub\DevAppWeb_cSharp1\DevAppWeb_cSharp1\obj\Debug\net8.0\DevAppWeb_cSharp1.pdb
+C:\Users\fireDevelop\Documents\GitHub\DevAppWeb_cSharp1\DevAppWeb_cSharp1\obj\Debug\net8.0\DevAppWeb_cSharp1.genruntimeconfig.cache
+C:\Users\fireDevelop\Documents\GitHub\DevAppWeb_cSharp1\DevAppWeb_cSharp1\obj\Debug\net8.0\ref\DevAppWeb_cSharp1.dll
